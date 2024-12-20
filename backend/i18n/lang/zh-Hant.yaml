@@ -30,7 +30,7 @@ SystemRestart: "系統重啟導致任務中斷"
 ErrInvalidChar: "禁止使用非法字元"
 
 #app
-ErrPortInUsed: "{{ .detail }} 端口已被佔用！"
+ErrPortInUsed: "{{ .detail }} 埠已被佔用！"
 ErrAppLimit: "應用超出安裝數量限制"
 ErrAppRequired: "請先安裝 {{ .detail }} 應用"
 ErrNotInstall: "應用未安裝"
